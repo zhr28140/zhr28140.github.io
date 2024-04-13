@@ -1,4 +1,6 @@
- {
+title: 18+
+
+published: true {
 "sites": [
 {"key":"草榴资源","name":"草榴资源","type":0,"api":"https://www.caoliuzy.com/api.php/provide/vod/at/xml/","playUrl":"https://jx.caoliuzycdn.com/m3u8.php?url=","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"秀色资源","name":"秀色资源","type":0,"api":"https://api.xiuseapi.com/api.php/provide/vod/from/xiuse/at/xmlsea/","searchable":1,"quickSearch":1,"filterable":1},
